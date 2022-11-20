@@ -3,8 +3,8 @@
   <p align="center">
     <img src="https://count.getloli.com/get/@SquareTetrisBlock?theme=gelbooru" />
   </p>
-![Bytes](https://github-readme-stats.vercel.app/api/top-langs/?username=squaretetrisblock&layout=compact&theme=vision-friendly-dark)
 </div>
 
+![Bytes](https://github-readme-stats.vercel.app/api/top-langs/?username=squaretetrisblock&layout=compact&theme=vision-friendly-dark)
 
 ---
